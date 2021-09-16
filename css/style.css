@@ -374,10 +374,10 @@ a:focus {
 
 .page-header-info {
     position: relative;
-    margin-bottom: 45px;
+    margin-bottom: 15px;
     padding: 10px 0;
     text-align: center;
-    background: #002d3b;
+    background: #f5a4a1;
 }
 
 .page-header-info h2 {
